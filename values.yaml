@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 ## Dev Environment
-replicaCount: 5
+replicaCount: 2
 
 image:
   repository: rahulwagh17/kubernetes:jhooq-k8s-springboot
